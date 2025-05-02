@@ -38,8 +38,7 @@ function App() {
                        <Card/>
                     </div>
                 </div>
-            </div>
-
+            </div> 
     </ThemeProvider>
   )
 }
